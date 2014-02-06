@@ -12,6 +12,7 @@ things) in the following publications:
 - `Searching for smallest grammars on large sequences and application to DNA`.  Rafael Carrascosa, François Coste, Matthias Gallé, Gabriel G. Infante López. J. Discrete Algorithms vol 11.
 
 
-A small disclaimer: I used this code to get my degree (was written fast) and I
-                    didn't knew much python at the time... so it might be a
-                    little messy.
+A small disclaimer: 
+I used this code to get my degree (was written fast) and I
+didn't knew much python at the time... so it might be a
+little messy.
